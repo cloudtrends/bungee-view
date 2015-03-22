@@ -1,0 +1,3 @@
+Bungee View is a Java Web Start application built on the Piccolo visualization toolkit for browsing hierarchical meta-data describing a document collection. It is best suited for holdings that can be concisely summarized, such as images.  It is targeted at institution-sized collections of up to a million holdings described by 5-20 meta-data attributes.
+
+The name suggests a user experience of quickly alternating between a visualization of the collection as a whole, and diving into subsets of it.
